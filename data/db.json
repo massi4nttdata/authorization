@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "checked": true,
+      "username": "john.doe@mail.us",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "username": "lu.jhin@mail.us",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "username": "sam.fox@mail.us",
+      "password": "123456"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "username": "tamara.calvin@mail.us",
+      "password": "123456"
+    }
+  ]
+}
